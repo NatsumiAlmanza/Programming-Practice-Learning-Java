@@ -7,6 +7,6 @@ class Solution {
         
         int day = 5;
         
-        System.out.println("Today is: " + CURRENT_MONTH "/" + day + "/" YEAR;
+        System.out.println("Today is: " + CURRENT_MONTH + "/" + day + "/" + CURRENT_YEAR);
     }
 }
